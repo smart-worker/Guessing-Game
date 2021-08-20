@@ -1,2 +1,2 @@
 # Guessing-Game
-Game built using C++
+Game built using C.
